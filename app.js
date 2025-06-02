@@ -12,7 +12,7 @@
 // }
 
 function clicar(){    
-    alert("artigo em construção, aguarde um momento")
+    alert("Artigo em construção, aguarde um momento")
     
     
     //b.innerText = 'selecionado' 
